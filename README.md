@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 <p align="center">
-  <img src="https://i.ibb.co/KpgTJ2pK/banner-1.png" alt="Velo Booster in action" width="600">
+  <img src="https://i.ibb.co/KpgTJ2p/banner-1.png" alt="Velo Booster in action" width="600">
 </p>
 
 ## 📋 Overview
