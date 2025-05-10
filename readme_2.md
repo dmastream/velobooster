@@ -78,25 +78,6 @@ Velo Booster is an automated bot designed for farming XP and Battle Pass progres
 3. Configure your Discord webhook URL (optional)
 4. Click "Start" to begin the bot operation
 
-### Command Line Mode
-
-1. Start the game
-2. Run the bot with options:
-   ```bash
-   python bot.py [options]
-   ```
-
-### Command Line Options
-
-- `mode=<gamemode>`: Specify which game mode to queue for
-  - Supported modes: `battle-royale-quads`, `battle-royale-duos`
-- `fill=<on|off>`: Whether to fill your squad with random players
-
-Example:
-```bash
-python bot.py mode=battle-royale-duos fill=off
-```
-
 ## 📊 How It Works
 
 1. The bot uses computer vision (OpenCV) to detect UI elements
