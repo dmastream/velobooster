@@ -6,12 +6,9 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 <div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/velobooster)
-
+   
 **Contact:** ! dma | Discord ID: dmastream
-
-**Join our community:** [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/velobooster)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/velobooster)
 
 </div>
 
