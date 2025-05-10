@@ -1,4 +1,4 @@
-# Velo Booster - Warzone 2.0 AFK Bot
+# Velo Booster - Free Warzone AFK Bot
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen)
