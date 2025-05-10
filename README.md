@@ -5,9 +5,15 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-<p align="center">
-  <img src="banner.jpg" alt="Velo Booster in action" width="600">
-</p>
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/velobooster)
+
+**Contact:** Velo Booster | Discord ID: velobooster#1337
+
+**Join our community:** [discord.gg/velobooster](https://discord.gg/velobooster)
+
+</div>
 
 ## 📋 Overview
 
