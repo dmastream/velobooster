@@ -11,7 +11,7 @@
 
 **Contact:** ! dma | Discord ID: dmastream
 
-**Join our community:** [discord.gg/velobooster](https://discord.gg/cGN3ZWJVYe)
+**Join our community:** [discord.gg/cGN3ZWJVYe](https://discord.gg/cGN3ZWJVYe)
 
 </div>
 
