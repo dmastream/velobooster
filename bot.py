@@ -680,6 +680,7 @@ quit_match_button = cv2.imread(path("Images/quit_match.png"), cv2.IMREAD_GRAYSCA
 yes_quit_match_button = cv2.imread(path("Images/yes_quit_match.png"), cv2.IMREAD_GRAYSCALE)
 restart_button = cv2.imread(path("Images/restart.png"), cv2.IMREAD_GRAYSCALE)
 restart_button_hovered = cv2.imread(path("Images/restart_hovered.png"), cv2.IMREAD_GRAYSCALE)
+dev_error_ok_button = cv2.imread(path("Images/dev_error_ok.png"), cv2.IMREAD_GRAYSCALE)
 
 
 
@@ -712,6 +713,7 @@ plunder_ui_elements = {"elements": [{"image" : plunder_button, "threshold" : 0.9
                                     {"image" : yes_quit_match_button, "threshold" : 0.90, "callback" : keyinput.click},
                                     {"image" : restart_button, "threshold" : 0.90, "callback" : keyinput.click},
                                     {"image" : restart_button_hovered, "threshold" : 0.90, "callback" : keyinput.click},
+                                    {"image" : dev_error_ok_button, "threshold" : 0.90, "callback" : keyinput.click},
                                     {"image" : loadout1, "threshold" : 0.90, "callback" : keyinput.click}]}
 
 # Function to reduce space press delay for certain modes
