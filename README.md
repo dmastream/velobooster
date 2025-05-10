@@ -35,7 +35,6 @@ Velo Booster is an automated bot designed for farming XP and Battle Pass progres
 - **Discord Integration**: Real-time notifications about game status
 - **Game Crash Recovery**: Watchdog feature that can restart the game if it crashes
 - **Modern GUI Interface**: Easy-to-use interface with game statistics
-- **Multiple Game Mode Support**: Configure for different Battle Royale variants
 
 ## 🛠️ Setup
 
@@ -58,7 +57,7 @@ Velo Booster is an automated bot designed for farming XP and Battle Pass progres
 
 ### GUI Mode (Recommended)
 
-1. Start Call of Duty: Modern Warfare/Warzone
+1. Start Call of Duty: Warzone
 2. Run the bot with:
    ```bash
    python gui.py
