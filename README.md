@@ -17,13 +17,12 @@
 
 ## 📋 Overview
 
-Velo Booster is an automated bot designed for farming XP and Battle Pass progression in Call of Duty: Warzone
-The bot works by:
+Velo Booster is an automated bot designed for farming XP and Battle Pass progression in Call of Duty: Modern Warfare 2 (2022) and Warzone 2.0. The bot works by:
 
-- Automatically queuing for Plunder matches
+- Automatically queuing for Battle Royale matches
 - Navigating game menus using computer vision
 - Performing random movements in-game to avoid AFK detection
-- Monitoring game state and automatically requeuing after matches end (currently supported only for Battle.net.)
+- Monitoring game state and automatically requeuing after matches end
 - Providing Discord webhook notifications for game events
 - Offering a user-friendly GUI interface
 
@@ -36,8 +35,18 @@ The bot works by:
 - **Discord Integration**: Real-time notifications about game status
 - **Game Crash Recovery**: Watchdog feature that can restart the game if it crashes
 - **Modern GUI Interface**: Easy-to-use interface with game statistics
+- **Multiple Game Mode Support**: Configure for different Battle Royale variants
 
 ## 🛠️ Setup
+
+### Automatic Setup (Recommended)
+
+1. **Run the Automatic Installer**
+   - Simply run `setup.bat` by double-clicking it
+   - The script will automatically install Python and all required packages
+   - Follow any on-screen prompts
+
+### Manual Setup
 
 1. **Install Python 3.8+**
    - Download from [python.org](https://www.python.org/downloads/)
@@ -45,7 +54,11 @@ The bot works by:
 
 2. **Install Required Packages**
    ```bash
-   python -m pip install pypiwin32 pillow opencv-python pyside6 requests
+   python -m pip install -r requirements.txt
+   ```
+   Or install packages individually:
+   ```bash
+   python -m pip install pypiwin32 pillow opencv-python pyside6 requests numpy
    ```
 
 3. **Game Configuration**
@@ -59,31 +72,11 @@ The bot works by:
 ### GUI Mode (Recommended)
 
 1. Start Call of Duty: Warzone
-2. Run the bot with:
-   ```bash
-   python gui.py
-   ```
+2. **Run the bot by double-clicking `run_bot.bat`**
+   - This will automatically start the GUI application
+   - Alternatively, you can run it manually with: `python gui.py`
 3. Configure your Discord webhook URL (optional)
 4. Click "Start" to begin the bot operation
-
-### Command Line Mode
-
-1. Start the game
-2. Run the bot with options:
-   ```bash
-   python bot.py [options]
-   ```
-
-### Command Line Options
-
-- `mode=<gamemode>`: Specify which game mode to queue for
-  - Supported modes: `battle-royale-quads`, `battle-royale-duos`
-- `fill=<on|off>`: Whether to fill your squad with random players
-
-Example:
-```bash
-python bot.py mode=battle-royale-duos fill=off
-```
 
 ## 📊 How It Works
 
