@@ -88,7 +88,7 @@ Velo Booster is an automated bot designed for farming XP and Battle Pass progres
 
 ## ⚠️ Disclaimer
 
-Velo Booster is a free, open-source project intended for **educational and entertainment purposes only**. Use at your own risk. We are not responsible for any bans, account issues, or other consequences that may arise from using this software.
+-# Velo Booster is a free, open-source project intended for **educational and entertainment purposes only**. Use at your own risk. We are not responsible for any bans, account issues, or other consequences that may arise from using this software.
 
 ## 📝 License
 
