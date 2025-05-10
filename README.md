@@ -22,7 +22,7 @@ Velo Booster is an automated bot designed for farming XP and Battle Pass progres
 - Automatically queuing for Plunder matches
 - Navigating game menus using computer vision
 - Performing random movements in-game to avoid AFK detection
-- Monitoring game state and automatically requeuing after matches end
+- Monitoring game state and automatically requeuing after matches end (currently supported only for Battle.net.)
 - Providing Discord webhook notifications for game events
 - Offering a user-friendly GUI interface
 
