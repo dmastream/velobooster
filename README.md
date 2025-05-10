@@ -9,7 +9,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/velobooster)
 
-**Contact:** nox | Discord ID: dmastream
+**Contact:** ! dma | Discord ID: dmastream
 
 **Join our community:** [discord.gg/velobooster](https://discord.gg/cGN3ZWJVYe)
 
