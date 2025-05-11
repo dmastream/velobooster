@@ -41,13 +41,6 @@ Velo Booster is an automated bot designed for farming XP and Battle Pass progres
 
 ### Automatic Setup (Recommended)
 
-1. **Run the Automatic Installer**
-   - Simply run `setup.bat` by double-clicking it
-   - The script will automatically install Python and all required packages
-   - Follow any on-screen prompts
-
-### Manual Setup
-
 1. **Install Python 3.8+**
    - Download from [python.org](https://www.python.org/downloads/)
    - Ensure you check "Add Python to PATH" during installation
