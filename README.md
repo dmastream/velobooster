@@ -56,10 +56,10 @@ The bot works by:
    ```
 
 3. **Game Configuration**
-   - Set Call of Duty: Modern Warfare/Warzone to **English language**
+   - Set Call of Duty: Warzone to **English language**
    - Configure the game to run in **Windowed mode**
    - Ensure the "Jump" button is bound to **SPACE**
-   - If using the watchdog feature, set Battle.net launcher to English and keep it open
+   - Rename your Loadout to "**Loadout1**"
 
 ## 🚀 Usage
 
