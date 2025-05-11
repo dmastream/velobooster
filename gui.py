@@ -367,7 +367,6 @@ def main():
 
     def _show_main():
         splash.close()
-        # Obfuscated popup message
         import base64 as _b64msg, PySide6.QtWidgets as _qtw
         _m = _b64msg.b64decode("VGhpcyBzb2Z0d2FyZSBpcyBmcmVlLiBJZiB5b3UgYm91Z2h0IGl0IHlvdSBnb3Qgc2NhbW1lZC4=").decode()
         _qtw.QMessageBox.information(None, "Note", _m)
