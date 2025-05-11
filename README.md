@@ -17,7 +17,8 @@
 
 ## 📋 Overview
 
-Velo Booster is an automated bot designed for farming XP and Battle Pass progression in Call of Duty: Modern Warfare 2 (2022) and Warzone 2.0. The bot works by:
+Velo Booster is an automated bot designed for farming XP and Battle Pass progression in Call of Duty: Warzone
+The bot works by:
 
 - Automatically queuing for Battle Royale matches
 - Navigating game menus using computer vision
